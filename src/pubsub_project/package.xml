@@ -5,7 +5,7 @@
   <name>pubsub_project</name>
   <version>0.1.0</version>
   <description>A professional ROS2 publisher-subscriber implementation</description>
-  <maintainer email="your.email@example.com">Your Name</maintainer>
+  <maintainer email="ashalen.govender@gmail.com">ashalen</maintainer>
   <license>Apache-2.0</license>
 
   <exec_depend>rclpy</exec_depend>
